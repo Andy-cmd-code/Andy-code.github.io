@@ -23,7 +23,7 @@ let games = [
         name: "Cyberpunk 2077",
     },
     {
-        id: 314160,
+        id: 967278,
         name: "Microsoft Flight Simulator",
     },
 ];
